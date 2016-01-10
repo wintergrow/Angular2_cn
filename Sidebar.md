@@ -1,7 +1,5 @@
-# Summary
-This is the summary of my book.
-* [section 1](section1/README.md)
-    * [example 1](section1/example1.md)
-    * [example 2](section1/example2.md)
-* [section 2](section2/README.md)
-    * [example 1](section2/example1.md)
+# 内容导读
+基本章节如下
+* [编写你的第一个ng2应用](article/C1_Intro.md)
+* [学习TypeScript](article/C2_Intro.md)
+
